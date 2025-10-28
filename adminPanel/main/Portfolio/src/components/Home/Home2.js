@@ -13,38 +13,32 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I'm a passionate IT student who loves building innovative web and app solutions. 
+              I'm constantly learning and exploring new technologies to create impactful digital experiences.
               <br />
               <br />
-              I’m proficient in
+              I'm proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Java, C, HTML, and CSS{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — and I'm continuously expanding my skill set in web development.
               <br />
               <br />
               My key areas of interest include developing
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, Full-Stack Projects,{" "}
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              and creating user-friendly interfaces that solve real-world problems.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              I love building projects with modern technologies and frameworks, 
+              focusing on creating responsive and interactive web applications.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -58,3 +52,4 @@ function Home2() {
   );
 }
 export default Home2;
+
